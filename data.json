@@ -1,1 +1,1 @@
-{"@context":"https://rawgit.com/valueflows/agent/master/context.jsonld","@id":"https://raw.githubusercontent.com/pragmaticmind/open-data-self/master/data.json","@type":"Person","displayName":"PragmaticMind","image":"","url":"www.pragmaticmind.com"}
+{"@context":"https://cdn.jsdelivr.net/gh/valueflows/agent/context.jsonld","@id":"https://raw.githubusercontent.com/pragmaticmind/open-data-self/master/data.json","@type":"Person","displayName":"PragmaticMind","image":"","url":"www.pragmaticmind.com"}
